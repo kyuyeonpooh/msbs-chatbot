@@ -11,12 +11,12 @@ dependencies = [
   "langchain-core",
   "langchain-openai",
   "langchain-community",
-  "rank_bm25",
-  "pymupdf4llm",
+  # "rank_bm25",
+  # "pymupdf4llm",
   "faiss-cpu",
   "streamlit",
   "watchdog",
-  "py-zerox",
+  # "py-zerox",
 ]
 
 [project.optional-dependencies]

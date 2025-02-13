@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/mistubishi_chatbot.egg-info/PKG-INFO
+src/mistubishi_chatbot.egg-info/SOURCES.txt
+src/mistubishi_chatbot.egg-info/dependency_links.txt
+src/mistubishi_chatbot.egg-info/requires.txt
+src/mistubishi_chatbot.egg-info/top_level.txt

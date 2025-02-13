@@ -1,0 +1,17 @@
+Metadata-Version: 2.2
+Name: mistubishi-chatbot
+Version: 0.1.0
+Summary: Mitsubishi equipment chatbot project using RAG.
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: langchain
+Requires-Dist: langchain-core
+Requires-Dist: langchain-openai
+Requires-Dist: langchain-community
+Requires-Dist: pymupdf4llm
+Requires-Dist: faiss-cpu
+Requires-Dist: py-zerox
+
+# mitsubishi-chatbot

@@ -1,0 +1,9 @@
+numpy
+pandas
+langchain
+langchain-core
+langchain-openai
+langchain-community
+pymupdf4llm
+faiss-cpu
+py-zerox
